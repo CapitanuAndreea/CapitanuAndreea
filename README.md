@@ -1,8 +1,8 @@
 # Hi🌱, I'm Andreea!
 
-**Second Year Computer Science Student**
+**CS Graduate & First-year Master's student in Software Engineering**
 
 Passionate about:
-* Software Development
-* Game Development
-* Operating Systems
+* Natural Language Processing
+* Computer Vision
+* DevOps
